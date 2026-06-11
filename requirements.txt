@@ -1,0 +1,6 @@
+ollama
+edge-tts
+sounddevice
+soundfile
+pypdf
+python-pptx
